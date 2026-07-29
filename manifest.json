@@ -1,0 +1,16 @@
+{
+  "name": "Oraimo Accessories Kenya",
+  "short_name": "Oraimo Accessories",
+  "description": "Original Oraimo Accessories & Appliances — genuine chargers, power banks, earbuds, headphones, smartwatches, home appliances, grooming products and speakers in Kenya. Order instantly on WhatsApp.",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FAFAF8",
+  "theme_color": "#0B0F0D",
+  "lang": "en-KE",
+  "icons": [
+    { "src": "images/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "images/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "images/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

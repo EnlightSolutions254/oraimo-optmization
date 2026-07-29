@@ -1,0 +1,6 @@
+{
+  "name": "Oraimo Accessories Kenya",
+  "description": "Shop genuine Oraimo power banks, earbuds, headphones, smartwatches, chargers, speakers, grooming and home appliances in Kenya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
